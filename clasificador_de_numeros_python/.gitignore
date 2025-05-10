@@ -9,3 +9,5 @@ __pycache__/
 # Entornos y configuraciones locales
 .env
 .vscode/
+venv/
+venv/
