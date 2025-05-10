@@ -1,0 +1,11 @@
+# Ignorar carpeta del entorno virtual
+venv/
+
+# Archivos de Python que no deben subirse
+__pycache__/
+*.py[cod]
+*.log
+
+# Entornos y configuraciones locales
+.env
+.vscode/
